@@ -7,9 +7,6 @@
     text-decoration: none;
 }
 
-body {
-    display: block;
-}
 
 header{
     position: fixed;
@@ -69,7 +66,7 @@ header{
 }
 
 section {
-    padding: 0 19%;
+    padding: 5% 19%;
 }
 
 .intro-text h5{
